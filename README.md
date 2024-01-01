@@ -1,36 +1,37 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Paystand - Best way to accept payments online
 
-## Getting Started
 
-First, run the development server:
+## At-a-Glance 👀
+Paystand is a responsive web application developed using Next.js and Tailwind CSS. It’s a redesign of a official website https://www.paystand.com/ . The website is fully responsive and works well on all devices. TypeScript is used for type checking. The website is deployed on Netlify.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Technologies used 🛠️
+- Next.js 14
+- TypeScript
+- Tailwind CSS
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Pages 📄
+- Home
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Live Demo 🔴
+[https://paystand-naresh.netlify.app/](https://paystand-naresh.netlify.app/)
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Figma Link 🔗
+[https://www.figma.com/file/mwEHgTlFhoorqz8Ms0KDzn/Projects?type=design&node-id=0%3A1&mode=design&t=RvOIx6896oacQAJk-1](https://www.figma.com/file/mwEHgTlFhoorqz8Ms0KDzn/Projects?type=design&node-id=0%3A1&mode=design&t=RvOIx6896oacQAJk-1)
 
-## Learn More
+## My Role 🤵
+- Designed and developed the website from scratch.
+- Used Next.js for server side rendering.
+- Used Tailwind CSS for styling.
+- Used TypeScript for type checking.
+- Used Figma for designing the website.
+- Deployed the website on Netlify.
 
-To learn more about Next.js, take a look at the following resources:
+## Performance 📈
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Screenshots 📷
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Author 🙋‍♂️
+[@nareshkumaralaria](https://github.com/nareshkumaralaria) (Naresh Kumar)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
