@@ -1,5 +1,5 @@
 # Paystand - Best way to accept payments online
-
+![paystand hero image](https://github.com/nareshkumaralaria/Paystand/assets/57484597/32cbb054-5bb2-4994-b0bd-86e3c0e2d49f)
 
 ## At-a-Glance 👀
 Paystand is a responsive web application developed using Next.js and Tailwind CSS. It’s a redesign of a official website https://www.paystand.com/ . The website is fully responsive and works well on all devices. TypeScript is used for type checking. The website is deployed on Netlify.
@@ -27,10 +27,10 @@ Paystand is a responsive web application developed using Next.js and Tailwind CS
 - Deployed the website on Netlify.
 
 ## Performance 📈
-
+![lighthouse score](https://github.com/nareshkumaralaria/Paystand/assets/57484597/d9f31113-fc1e-4333-a1e6-846e61fd3019)
 
 ## Screenshots 📷
-
+![Full page Screenshot](https://github.com/nareshkumaralaria/Paystand/assets/57484597/fadc61e3-1590-47dc-8bc9-dc178a289da9)
 
 ## Author 🙋‍♂️
 [@nareshkumaralaria](https://github.com/nareshkumaralaria) (Naresh Kumar)
